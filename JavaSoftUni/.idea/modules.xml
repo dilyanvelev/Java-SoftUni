@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/javaFundamentals/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/ArraysExercises/ArraysExercises.iml" filepath="$PROJECT_DIR$/javaFundamentals/ArraysExercises/ArraysExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/BSCSExercise/BSCSExercise.iml" filepath="$PROJECT_DIR$/javaFundamentals/BSCSExercise/BSCSExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/BSCSLLab/BSCSLLab.iml" filepath="$PROJECT_DIR$/javaFundamentals/BSCSLLab/BSCSLLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/DataTypesAndVariables/DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/javaFundamentals/DataTypesAndVariables/DataTypesAndVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/DataTypesAndVariablesExercise/DataTypesAndVariablesExercise.iml" filepath="$PROJECT_DIR$/javaFundamentals/DataTypesAndVariablesExercise/DataTypesAndVariablesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSoftUni.iml" filepath="$PROJECT_DIR$/JavaSoftUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAdvanced/javaAdvanced.iml" filepath="$PROJECT_DIR$/javaAdvanced/javaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals/javaFundamentals.iml" filepath="$PROJECT_DIR$/javaFundamentals/javaFundamentals.iml" />
+    </modules>
+  </component>
+</project>
