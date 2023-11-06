@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysExercises/ArraysExercises.iml" filepath="$PROJECT_DIR$/ArraysExercises/ArraysExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSCSExercise/BSCSExercise.iml" filepath="$PROJECT_DIR$/BSCSExercise/BSCSExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BSCSLLab/BSCSLLab.iml" filepath="$PROJECT_DIR$/BSCSLLab/BSCSLLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesAndVariablesExercise/DataTypesAndVariablesExercise.iml" filepath="$PROJECT_DIR$/DataTypesAndVariablesExercise/DataTypesAndVariablesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentals.iml" filepath="$PROJECT_DIR$/javaFundamentals.iml" />
+    </modules>
+  </component>
+</project>
