@@ -5,14 +5,18 @@ public class EqualsArrays {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+
         String[] firstArr = sc.nextLine().split(" ");
         String[] secondArr = sc.nextLine().split(" ");
+
 
         int[] firstArrNumbers = new int[firstArr.length];
         int[] secondArrNumbers = new int[firstArr.length];
 
+
         for (int i = 0; i < firstArr.length; i++) {
             firstArrNumbers[i] = Integer.parseInt(firstArr[i]);
+
 
         }
 
