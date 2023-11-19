@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraysExercises/ArraysExercises.iml" filepath="$PROJECT_DIR$/ArraysExercises/ArraysExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssociativeArrays/AssociativeArrays.iml" filepath="$PROJECT_DIR$/AssociativeArrays/AssociativeArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BSCSExercise/BSCSExercise.iml" filepath="$PROJECT_DIR$/BSCSExercise/BSCSExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/BSCSLLab/BSCSLLab.iml" filepath="$PROJECT_DIR$/BSCSLLab/BSCSLLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" />
